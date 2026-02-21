@@ -1,0 +1,2 @@
+# agentCompetition
+competing agents
